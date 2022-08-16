@@ -1,1 +1,1 @@
-collaboration with Dorah Rotich At ALX
+ collaborative printf project by Dorah Rotich and Paul Waithira
